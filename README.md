@@ -1,7 +1,7 @@
 # super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This sample project was made b following [this tutorial](https://guides.emberjs.com/release/tutorial/part-1/).
+To run this application, make sure you add your own Mapbox API key in config/environment.js and then run with `ember s`
 
 ## Prerequisites
 
